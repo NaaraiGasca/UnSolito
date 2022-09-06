@@ -17,6 +17,11 @@
     <string name="video">Video</string>
     <string name="gps">GPS</string>
     <string name="loco">Loco</string>
+    <string name="presiona">Presiona Aqui</string>
+    <string name="hora">Hora Actual</string>
+    <string name="obtenerhora">Obtener Hora Actual</string>
+    <string name="rank">Ranking. ¿Que tal te parecio nuestra app?</string>
+    <string name="imgEP">Encender y Apagar una Imagen</string>
     <string name="acercade">Acerca de</string>
     <string name="regresar">Regresar</string>
 
